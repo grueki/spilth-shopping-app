@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navbar_browse"
+        android:enabled="true"
+        android:icon="@drawable/ic_outline_dashboard_24"
+        android:title="@string/navbar_browse"/>
+    <item
+        android:id="@+id/navbar_search"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/navbar_search"/>
+    <item
+        android:id="@+id/navbar_wishlist"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="@string/navbar_favourites"/>
+
+</menu>

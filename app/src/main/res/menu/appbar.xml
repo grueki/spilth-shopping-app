@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:icon="@drawable/ic_baseline_bug_report_24"
+        android:title="@string/appbar_context_dev">
+        <menu>
+            <item
+                android:id="@+id/reset_favourites"
+                android:title="@string/appbar_context_favourites" />
+            <item
+                android:id="@+id/reset_suggestions"
+                android:title="@string/appbar_context_suggestions" />
+            <item
+                android:id="@+id/reset_views"
+                android:title="@string/appbar_context_reset_views" />
+        </menu>
+    </item>
+</menu>

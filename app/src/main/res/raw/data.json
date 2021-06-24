@@ -1,0 +1,356 @@
+{
+  "categories": {
+    "2f136b89-eb0b-43e2-988b-ed49967e8050": {
+      "name": "Hardware",
+      "image": "circuit.webp",
+      "description": "These high-quality hardware solutions have been sourced straight from the fresh springs of Duleepa's very own component store.\nOnly the best - that's the Spil.th guarantee."
+    },
+    "2400ff7c-27de-4ca6-be8a-fc58b6472469": {
+      "name": "Software",
+      "image": "software.webp",
+      "description": "Highly professional and crafted to perfection, our software products are a great way to get ahead of the curve.\nWhether you want handwritten digits recognised or a incredibly well-made shopping app, this is the category for you."
+    },
+    "35e186b1-e1cc-4080-9cb1-b0841cced35a": {
+      "name": "Gaming",
+      "image": "gaming.webp",
+      "description": "Spil.th serves you nothing but the very best of the gaming world. If you need it, you'll find it here."
+    },
+    "6fe14db1-3a6f-45d8-b49c-29616534257f": {
+      "name": "Accessories",
+      "image": "13_category-cables.webp",
+      "description": "Need the digital equivalent of a snack? We've got you covered."
+    }
+  },
+  "items": {
+    "2b41adab-c1f5-4cfd-a001-6ea90e9e52d8": {
+      "title": "Flap Birby",
+      "description": "The Dark Souls of the side-scrolling bird genre! Only 2/3rds of the game are available due to issues with the copyright holder.\nThe game is mostly functional but will require extensive experience with VHDL and a strong will to live in order to operate.\nQuartus, Cyclone III FPGA board and PS/2 mouse sold separately.",
+      "images": [
+        "flap1.webp",
+        "de01.webp",
+        "de02.webp"
+      ],
+      "categories": [
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a",
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "price": "0.49"
+    },
+    "bd7b544a-6d88-42ce-8576-9eeabde80c53": {
+      "title": "New Phone",
+      "description": "Jackson doesn't know that I have it. Heavy discount as he might try to find you, but selling it because my student loans don't pay themselves off.",
+      "images": [
+        "phone1.webp",
+        "phone2.webp",
+        "phone3.webp"
+      ],
+      "categories": [
+        "6fe14db1-3a6f-45d8-b49c-29616534257f",
+        "2f136b89-eb0b-43e2-988b-ed49967e8050",
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a"
+      ],
+      "price": "125.49"
+    },
+    "92c8e630-30ed-4625-a58d-f07e14fcb50d": {
+      "title": "Digit Recognition Program",
+      "description": "Highly advanced software which facilitates handwritten digit recognition through deep learning. 99% accurate 32% of the time.",
+      "images": [
+        "digits1.webp",
+        "digits2.webp",
+        "digits3.webp"
+      ],
+      "categories": [
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "price": "1730.00"
+    },
+    "e3d1965c-c490-4d20-a2c9-cee2ec4d21a0": {
+      "title": "Hip Tamagotchi",
+      "description": "All the kids play it! If you don't own one there is a high chance that you're a little baby. Are you a little baby?",
+      "images": [
+        "tamagotchi1.webp",
+        "tamagotchi2.webp",
+        "tamagotchi3.webp"
+      ],
+      "categories": [
+        "6fe14db1-3a6f-45d8-b49c-29616534257f",
+        "2f136b89-eb0b-43e2-988b-ed49967e8050"
+      ],
+      "price": "39.00"
+    },
+    "eca0fcbb-8f1a-4671-a5ce-7e17c998862e": {
+      "title": "Nondescript Device",
+      "description": "I have no clue what this device is but it has my wife and kids as hostages. Now yours for the low price of $0.00!",
+      "images": [
+        "glitch1.webp",
+        "glitch2.webp",
+        "glitch3.webp"
+      ],
+      "categories": [
+        "2f136b89-eb0b-43e2-988b-ed49967e8050"
+      ],
+      "price": "0.00"
+    },
+    "c3a5db01-4fc0-4c17-a44a-4fd49c61302f": {
+      "title": "Windows 11 License",
+      "description": "Totally legitimate. Now with an oversimplified interface to match Windows' oversimplified logo.",
+      "categories": [
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "images": [
+        "windows11-1.webp",
+        "windows11-2.webp",
+        "windows11-3.webp"
+      ],
+      "price": "300.00"
+    },
+    "8c2beb5e-8a19-4695-a2c0-f51b1dfbb1c3": {
+      "title": "Firefox-book",
+      "description": "Firefox sold separately",
+      "categories": [
+        "2f136b89-eb0b-43e2-988b-ed49967e8050"
+      ],
+      "images": [
+        "firefoxbook1.webp",
+        "firefoxbook2.webp",
+        "firefoxbook3.webp"
+      ],
+      "price": "729.99"
+    },
+    "0fba3ba0-363b-4699-a074-c987e1763963": {
+      "title": "This Application",
+      "description": "What a bargain.",
+      "categories": [
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "images": [
+        "screenshot2.webp",
+        "screenshot1.webp",
+        "screenshot3.webp"
+      ],
+      "price": "300.00"
+    },
+    "6c5f19f6-23b2-44d3-87fc-3c9e8b8f6857": {
+      "title": "PS/2 Mouse",
+      "description": "Mostly guaranteed to work on some modern computers.",
+      "categories": [
+        "2f136b89-eb0b-43e2-988b-ed49967e8050",
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a",
+        "6fe14db1-3a6f-45d8-b49c-29616534257f"
+      ],
+      "images": [
+        "ps2-1.webp",
+        "de02.webp",
+        "ps2-2.webp"
+      ],
+      "price": "30.00"
+    },
+    "143defa5-2a05-432a-b1bd-28461ae5155f": {
+      "title": "DE0 Board",
+      "description": "Contains the soul of thousands of tortured engineering students. Can also be used to play Flappy Bird.",
+      "categories": [
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a",
+        "2f136b89-eb0b-43e2-988b-ed49967e8050"
+      ],
+      "images": [
+        "de01.webp",
+        "de02.webp",
+        "de03.webp"
+      ],
+      "price": "120.00"
+    },
+    "5b2b1654-8aae-4592-86dd-2e153d53484f": {
+      "title": "HDMI to VGA Adaptor",
+      "description": "Works extremely well. Except when it doesn't.",
+      "categories": [
+        "6fe14db1-3a6f-45d8-b49c-29616534257f",
+        "2f136b89-eb0b-43e2-988b-ed49967e8050"
+      ],
+      "images": [
+        "vga3.webp",
+        "vga1.webp",
+        "vga2.webp"
+      ],
+      "price": "30.00"
+    },
+    "bf3aee01-6eab-45fe-9a83-935795f747ef": {
+      "title": "0.00001 Bitcoin",
+      "description": "Very valuable crypto currency.",
+      "categories": [
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "images": [
+        "bitcoin1.webp",
+        "bitcoin2.webp",
+        "bitcoin3.webp"
+      ],
+      "price": "500.00"
+    },
+    "6e2165de-a4af-4d76-b225-94f5bd20c57e": {
+      "title": "Quartus III",
+      "description": "This version makes VHDL seem easy.",
+      "categories": [
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "images": [
+        "quartus1.webp",
+        "quartus2.webp",
+        "quartus3.webp"
+      ],
+      "price": "150.00"
+    },
+    "60b42995-dc70-4bf7-a729-9b9b0a918f68": {
+      "title": "Oscilloscope",
+      "description": "Makes funny lines. Suspiciously similar to those found in the University of Auckland's electrical labs.",
+      "categories": [
+        "2f136b89-eb0b-43e2-988b-ed49967e8050",
+        "6fe14db1-3a6f-45d8-b49c-29616534257f"
+      ],
+      "images": [
+        "osc2.webp",
+        "osc1.webp",
+        "osc3.webp"
+      ],
+      "price": "30.00"
+    },
+    "20d59611-2957-44b1-b7a4-f9cf69ad9b18": {
+      "title": "VGA Monitor",
+      "description": "Excellent for playing Flappy Bird on.",
+      "categories": [
+        "2f136b89-eb0b-43e2-988b-ed49967e8050",
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a",
+        "6fe14db1-3a6f-45d8-b49c-29616534257f"
+      ],
+      "images": [
+        "vga-1.webp",
+        "flap1.webp",
+        "vga-2.webp"
+      ],
+      "price": "83.00"
+    },
+    "7edae08f-ef31-4ea7-8dfe-8031dd429309": {
+      "title": "Muper Sario Bros.",
+      "description": "A new side-scrolling adventure for the whole family! Join the two carpenters Sario and Buigi on their adventures to save the kingdom's prince from Wowzer. Free promotional figurine included.",
+      "categories": [
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a",
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "images": [
+        "sario1.webp",
+        "sario2.webp",
+        "sario3.webp"
+      ],
+      "price": "19.99"
+    },
+    "0f4f6a4d-3930-41a7-a639-0333700b4440": {
+      "title": "PolyStation 2",
+      "description": "A new-gen game console like no other. Play all your favourites, from Immortal Kombat to Muper Sario Bros.",
+      "categories": [
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a",
+        "2f136b89-eb0b-43e2-988b-ed49967e8050"
+      ],
+      "images": [
+        "poly1.webp",
+        "poly2.webp",
+        "poly3.webp"
+      ],
+      "price": "199.99"
+    },
+    "3edf702a-55b4-4747-a128-7634c640f837": {
+      "title": "Assorted LEDs",
+      "description": "A vast selection of LEDs. Used, but good condition. I've been pulling them out of LED signboards for years and I finally think I have enough to sell.",
+      "categories": [
+        "6fe14db1-3a6f-45d8-b49c-29616534257f",
+        "2f136b89-eb0b-43e2-988b-ed49967e8050"
+      ],
+      "images": [
+        "leds2.webp",
+        "leds1.webp",
+        "leds3.webp"
+      ],
+      "price": "13.89"
+    },
+    "5b5f5c46-03cf-43dd-9f9b-0cb2580bcdaa": {
+      "title": "Mountain Dew Doritos",
+      "description": "Ok, now this is an epic redditor moment. Fuel your Twitch streams, king.",
+      "categories": [
+        "6fe14db1-3a6f-45d8-b49c-29616534257f",
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a"
+      ],
+      "images": [
+        "mdew2.webp",
+        "mdew3.webp",
+        "mdew1.webp"
+      ],
+      "price": "2.99"
+    },
+    "51427ac2-6174-4e9d-a0b1-c1e35b4d481b": {
+      "title": "Mintendo GameChild",
+      "description": "The real deal. Boasts an impressive 64x64 pixel display. Loaded with a whopping 3 games, including the cult classic Space War. Not affiliated with the Nintendo GameBoy, despite misconceptions.",
+      "categories": [
+        "2f136b89-eb0b-43e2-988b-ed49967e8050",
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a"
+      ],
+      "images": [
+        "game_child1.webp",
+        "game_child2.webp",
+        "game_child3.webp"
+      ],
+      "price": "14.29"
+    },
+    "3495f673-1ebb-4011-9598-2adfeb5a7854": {
+      "title": "Badobe Shotophop",
+      "description": "An industrial-grade all-in-one digital art, photo editing and animation solution, priced competitively. You can't miss this bargain!",
+      "categories": [
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "images": [
+        "sp1.webp",
+        "sp2.webp",
+        "sp3.webp"
+      ],
+      "price": "599.99"
+    },
+    "6dc628ce-7b9d-4eaf-be08-914ef97b6246": {
+      "title": "Bob the Builder Laptop Decals",
+      "description": "An essential for any respectable adult. Nothing says 'alpha male' like Bob the Builder decals.",
+      "categories": [
+        "6fe14db1-3a6f-45d8-b49c-29616534257f"
+      ],
+      "images": [
+        "bob1.webp",
+        "bob2.webp",
+        "bob3.webp"
+      ],
+      "price": "29.99"
+    },
+    "538e41dc-acf9-4fc8-88e4-494b637c815d": {
+      "title": "Android Studio",
+      "description": "I don't want it anymore. You can have it.",
+      "categories": [
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469"
+      ],
+      "images": [
+        "astudio1.webp",
+        "astudio2.webp",
+        "astudio3.webp"
+      ],
+      "price": "0.00"
+    },
+    "e14bea34-85e4-4658-8df8-c6020106ccd6": {
+      "title": "Chess DLC Bundle",
+      "description": "Includes the Mecha-Queen upgrade, the new Interdimensional Rift edition of chess, as well as giving your pieces the ability to wield firearms. An absolute necessity for getting an upper hand on your opponent!",
+      "categories": [
+        "35e186b1-e1cc-4080-9cb1-b0841cced35a",
+        "2400ff7c-27de-4ca6-be8a-fc58b6472469",
+        "6fe14db1-3a6f-45d8-b49c-29616534257f"
+      ],
+      "images": [
+        "chess3.webp",
+        "chess2.webp",
+        "chess1.webp"
+      ],
+      "price": "19.99"
+    }
+  }
+}
